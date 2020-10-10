@@ -1,0 +1,59 @@
+.Class1{
+background-color: gold;
+display: inline-flex;
+font-family: cursive;
+font-size: 20px;
+padding: 20px;}
+.Class2{
+background-color: black;
+color: gold;
+font-family: monospace;
+font-size: 70px;
+display: block;
+margin-left: auto;
+margin-right:auto;}
+.Class3{
+background-color: black;}
+.Class4{
+background-color: black;
+border-style: solid;
+font-size: 30px;
+text-align: center;
+color: gold;}
+.Class5{
+background-color: green;
+color: yellow;
+border-style: solid;
+font-family: cursive;
+font-size: 20px;}
+.Class6{
+background-color: white;
+border-style: double;
+font-family: monospace;
+font-size: 15px;
+text-align: center;}
+.Class7{
+background-color: navy;
+color:lawngreen;
+border-style: solid;
+font-family: cursive;
+font-size: 20px;}
+.Class8{
+background-color: white;
+color: black;
+font-family: sans-serif;
+font-size: 15px;
+text-align: center;}
+.Class9{
+background-color: green;
+color: gold;
+border-style: dashed;
+border-color: gold;}
+.Class10{
+background-color: white;
+color: black;
+font-family: fantasy;}
+ul{
+text-align: center;}
+a{
+text-align: center;}
