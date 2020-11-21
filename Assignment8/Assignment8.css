@@ -1,0 +1,24 @@
+table{
+background-color: silver;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+color: blue;
+font-family: sans-serif;
+}
+
+body{
+background-image:url(https://images-na.ssl-images-amazon.com/images/I/71Q5ZhQxgFL._AC_SL1500_.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+
+}
+input{
+background-color: blue;
+color: white;
+font-family: sans-serif;
+}
+button{
+background-color: red;
+color: white;
+}
